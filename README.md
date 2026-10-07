@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Nabin Bhandari 👋
 
-<!--
-**devnabin/devnabin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full-Stack Developer** and **Computer Science Graduate Student** at Lamar University, currently working as a Graduate Research Assistant. My work focuses on bridging web technologies with machine learning, generative AI, and automated workflows.
 
-Here are some ideas to get you started:
+### 🔭 What I'm currently working on
+*   Developing an automated water quality monitoring system using **n8n workflows**, **Transformer models**, and **XGBoost**.
+*   Building aquatic robotics simulations using **NVIDIA Isaac Sim** and computer vision for waste removal.
+*   Crafting robust web applications and interactive UIs using **React.js** and **Node.js**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+*   **Languages:** Python, JavaScript, C++, C
+*   **Web Development:** React.js, Node.js, WebSockets (Socket.io)
+*   **AI & Automation:** PyTorch, Local LLMs, n8n, Docker, Generative AI Workflows
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=devnabin&show_icons=true&theme=radical&hide_border=true" alt="Nabin's GitHub Stats" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=devnabin&layout=compact&theme=radical&hide_border=true" alt="Nabin's Top Languages" />
+</div>
+
+### 🏆 Featured Projects
+*   **[Chat App](https://github.com/devnabin/chatapp):** Real-time chat application utilizing Socket.io and Node.js.
+*   **[Nepali Photoshop](https://github.com/devnabin/Nepaliphotoshop):** Computer graphics challenge built with C/C++.
+
+### 🔗 Connect with me
+*   **Portfolio:** [nabinbhandari.com.np](http://nabinbhandari.com.np)
+*   **LinkedIn:** [in/bhandarinabin](https://linkedin.com/in/bhandarinabin)
