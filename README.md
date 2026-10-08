@@ -4,13 +4,12 @@ I'm a **Full-Stack Developer** and **Computer Science Graduate Student** at Lama
 
 ### 🔭 What I'm currently working on
 *   Developing an automated water quality monitoring system using **n8n workflows**, **Transformer models**, and **XGBoost**.
-*   Building aquatic robotics simulations using **NVIDIA Isaac Sim** and computer vision for waste removal.
 *   Crafting robust web applications and interactive UIs using **React.js** and **Node.js**.
 
 ### 🛠️ Tech Stack & Tools
 *   **Languages:** Python, JavaScript, C++, C
 *   **Web Development:** React.js, Node.js, WebSockets (Socket.io)
-*   **AI & Automation:** PyTorch, Local LLMs, n8n, Docker, Generative AI Workflows
+*   **AI & Automation:** Local LLMs, n8n, Docker, Generative AI Workflows
 
 ### 📊 GitHub Stats
 
